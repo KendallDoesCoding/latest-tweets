@@ -1,5 +1,5 @@
 body {
-  flex-grow: 4; /* default 0 */
+  flex-grow: 4; /* default 0 */;
 }
 
 .heading {
