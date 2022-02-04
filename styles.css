@@ -1,4 +1,6 @@
 .heading {
   text-align: center;
-  background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+   background: -webkit-linear-gradient(#3f5efb, ##c466b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
