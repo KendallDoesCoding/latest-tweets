@@ -9,6 +9,7 @@
 }
 
  a, a:hover, a:focus, a:active {
+      text-align: center;
       text-decoration: none;
       color: blue;
  }
