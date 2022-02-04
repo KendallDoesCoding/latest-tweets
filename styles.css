@@ -18,8 +18,8 @@
  }
 
 .content-creators {
-    display: grid;
-      place-items: center;
-      height: 100vh;
+    margin-top:auto;
+    margin-bottom:auto;
+    text-align:center;
 }
   
