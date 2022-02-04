@@ -1,7 +1,9 @@
 .heading {
   text-align: center;
+  color: #1ABC9C;
 }
 
 p {
-    color: #1ABC9C;
+  text-align: center;
+  color: red;
 }
