@@ -7,7 +7,8 @@ text-align: center;
   color: #1DA1F2;
 }
 
-.follow-btn, .tweets {
+.follow-btn,
+.tweets {
     align-items: center;
   text-align: center;
 }
