@@ -6,3 +6,8 @@ text-align: center;
 .heading i {
   color: #1DA1F2;
 }
+
+.follow-btn, .tweets {
+    align-items: center;
+  text-align: center;
+}
