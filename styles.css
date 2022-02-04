@@ -3,13 +3,18 @@
   color: #1ABC9C;
 }
 
+.heading i {
+  color: #1DA1F2;
+}
+
 .subtext {
   text-align: center;
   color: red;
 }
 
  a, a:hover, a:focus, a:active {
-      text-align: center;
+      margin:0 auto;    
+      display:block;
       text-decoration: none;
       color: blue;
  }
