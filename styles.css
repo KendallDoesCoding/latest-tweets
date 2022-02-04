@@ -7,3 +7,9 @@
   text-align: center;
   color: red;
 }
+
+ a, a:hover, a:focus, a:active {
+      text-decoration: none;
+      color: blue;
+ }
+  
